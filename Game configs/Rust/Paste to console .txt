@@ -1,0 +1,5 @@
+bind f1 consoletoggle
+bind f2 consoletoggle;clear;combatlog
+bind q forward;sprint 
+bind m +map;maxgibs -1;+focusmap
+bind p gc.collect;pool.clear_assets;pool.clear_memory;pool.clear_prefabs
