@@ -1,5 +1,6 @@
 bind f1 consoletoggle
 bind f2 consoletoggle;clear;combatlog
+bind p gc.collect;pool.clear_assets;pool.clear_memory;pool.clear_prefabs
 bind q forward;sprint 
 bind m +map;maxgibs -1;+focusmap
-bind p gc.collect;pool.clear_assets;pool.clear_memory;pool.clear_prefabs
+bind mouse1 "+attack2;+input.sensitivity .30;input.sensitivity .25;"

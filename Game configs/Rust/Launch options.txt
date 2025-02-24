@@ -1,1 +1,1 @@
--window-mode exclusive -maxMem=16000 -client.headlerp_inertia FALSE  -malloc=system +gc.buffer 4096
+-popupwindow -force-d3d11-no-singlethreaded -maxMem=16000 -client.headlerp_inertia FALSE -malloc=system +gc.buffer 4096
